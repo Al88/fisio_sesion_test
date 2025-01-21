@@ -56,7 +56,7 @@ DB_DATABASE=database/database.sqlite
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=shortener
+DB_DATABASE=fisio_db
 DB_USERNAME=root
 DB_PASSWORD=
 ```
